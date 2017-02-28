@@ -1,4 +1,42 @@
 header{
 	background: gray;
+}
+@media screen and (max-width: 550px){
+	body{
+	
+	}
+	header{
+		
+	}
+	h1{
+	}
+	article img{
+	}
+	article {
+	}
+	nav{
+	}
+	nav li{
+		background: black;
+	}
+	nav  ul {
+    background-color: #f1f1f1;
+	}
+
+	nav  li a {
+		color: #fff;
+		text-decoration: none;
+	}
+
+	nav  li a:hover {
+		background-color: #555;
+		color: white;
+	}
+	h2{
+	}
+	footer{
+		background: gray;
+	}
+
 
 }
